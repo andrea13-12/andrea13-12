@@ -17,3 +17,12 @@ When I’m not coding, I love connecting with nature, going camping, swimming, o
 
 - 📫 How to reach me **andreamelissa.tc@gmail.com**
 
+<div align="center" width="50px" >
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
+</div>
+
+<!-- STATS Y LENGUAJES MAS USADOS -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=andrea13-12&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=andrea13-12&theme=tokyonight" />
+</p>
