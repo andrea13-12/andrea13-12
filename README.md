@@ -11,7 +11,9 @@ Hi a Computer Engineering student with a passion for frontend development and a 
 - 🎨 Strong design foundation, thanks to my academic background and project experience
 - 🤝 Always open to collaborating on creative or open-source projects
 
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">&nbsp;***Beyond the Code***
+
+When I’m not coding, I love connecting with nature, going camping, swimming, or expressing myself through dance. I also enjoy exploring creativity through visits to theatres, museums, and art galleries.
 
 - 📫 How to reach me **andreamelissa.tc@gmail.com**
 
