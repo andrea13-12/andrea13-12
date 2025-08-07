@@ -16,10 +16,12 @@ Hi a Computer Engineering student with a passion for frontend development and a 
 When I’m not coding, I love connecting with nature, going camping, swimming, or expressing myself through dance. I also enjoy exploring creativity through visits to theatres, museums, and art galleries.
 
 - 📫 How to reach me **andreamelissa.tc@gmail.com**
+<hr>
 
 <div align="center" width="50px" >
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 </div>
+<hr>
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <p align="center">
