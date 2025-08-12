@@ -25,6 +25,7 @@ When I’m not coding, I love connecting with nature, going camping, swimming, o
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=andrea13-12&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=andrea13-12&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api?username=andrea13-12&show_icons=true&theme=github_dark&show_icons=true&layout=compact&hide_rank=false" alt="th1l1na" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea13-12&layout=compact&theme=github_dark&show_icons=true" alt="Andrea's Top Languages" />
+
 </p>
