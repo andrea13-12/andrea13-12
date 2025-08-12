@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Hi a Computer Engineering student with a passion for frontend development and a strong eye for design. I’m currently expanding my skills in both frontend and backend technologies, always excited to build something useful, creative, and meaningful.
+Hi a Software Engineering student with a passion for frontend development and a strong eye for design. I’m currently expanding my skills in both frontend and backend technologies, always excited to build something useful, creative, and meaningful.
 - 💻 Focused on crafting clean, user-friendly, and visually engaging web interfaces
 - 🛠 Experienced with HTML, CSS, JavaScript, and React
 - 🌱 Currently learning Swift and Java.
